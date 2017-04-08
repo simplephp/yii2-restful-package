@@ -1,0 +1,1 @@
+open_basedir="D:\lamp\vhosts\api.com\;D:\lamp\memcached\;D:\lamp\phpmyadmin\;D:\lamp\temp\;C:\WINDOWS\Temp\"
